@@ -22,7 +22,7 @@ title: Daniel Yu | yuft
 email: daniel.yuft@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Father, husband, developer. 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yuft.dev" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  yuft
